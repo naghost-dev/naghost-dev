@@ -1,5 +1,8 @@
-### Hi there 👋
+### Bip bip, here naghost! 👋
 
+##
+
+## [My concentration comes from here](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B)
 <!--
 **naghost-dev/naghost-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
