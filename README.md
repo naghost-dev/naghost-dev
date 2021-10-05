@@ -8,7 +8,6 @@
 
 ## :zap: [My concentration comes from here](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B)
 
-## can you find me at:
 
 <!--
 **naghost-dev/naghost-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
