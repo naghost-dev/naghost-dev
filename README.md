@@ -2,7 +2,7 @@
 ## :rainbow: my happy path is the jvm :coffee: environments
 
 #### 
-#### :hammer: I’m currently working on on Alpha project with the objective of developing global models
+#### :hammer: I'm currently involved in the development experience of BBVA's GenAI applications.
 #### 🌱 I’m currently learning about software design and some :snake: python
 
 
